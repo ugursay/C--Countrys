@@ -1,0 +1,359 @@
+C:\Users\ugur\Documents\Visual Studio 2013\Projects\world\world\bin\Debug\world.exe.config
+C:\Users\ugur\Documents\Visual Studio 2013\Projects\world\world\bin\Debug\world.exe
+C:\Users\ugur\Documents\Visual Studio 2013\Projects\world\world\bin\Debug\world.pdb
+C:\Users\ugur\Documents\Visual Studio 2013\Projects\world\world\obj\Debug\world.csprojResolveAssemblyReference.cache
+C:\Users\ugur\Documents\Visual Studio 2013\Projects\world\world\obj\Debug\world.Form1.resources
+C:\Users\ugur\Documents\Visual Studio 2013\Projects\world\world\obj\Debug\world.Properties.Resources.resources
+C:\Users\ugur\Documents\Visual Studio 2013\Projects\world\world\obj\Debug\world.csproj.GenerateResource.Cache
+C:\Users\ugur\Documents\Visual Studio 2013\Projects\world\world\obj\Debug\world.exe
+C:\Users\ugur\Documents\Visual Studio 2013\Projects\world\world\obj\Debug\world.pdb
+C:\Users\ugur\Documents\Visual Studio 2013\Projects\world\world\obj\Debug\world.america.resources
+C:\Users\ugur\Documents\Visual Studio 2013\Projects\world\world\obj\Debug\world.france.resources
+C:\Users\ugur\Documents\Visual Studio 2013\Projects\world\world\obj\Debug\world.germany.resources
+C:\Users\ugur\Documents\Visual Studio 2013\Projects\world\world\obj\Debug\world.japanese.resources
+C:\Users\ugur\Documents\Visual Studio 2013\Projects\world\world\obj\Debug\world.turkey.resources
+C:\Users\ugur\Documents\Visual Studio 2013\Projects\world\world\obj\Debug\world.turkey_meals_to_eat_.resources
+C:\Users\ugur\Desktop\world\world\bin\Debug\world.exe.config
+C:\Users\ugur\Desktop\world\world\obj\Debug\world.exe
+C:\Users\ugur\Desktop\world\world\obj\Debug\world.pdb
+C:\Users\ugur\Desktop\world\world\bin\Debug\world.exe
+C:\Users\ugur\Desktop\world\world\bin\Debug\world.pdb
+C:\Users\ugur\Desktop\world\world\obj\Debug\world.csprojResolveAssemblyReference.cache
+C:\Users\ugur\Desktop\world\world\obj\Debug\world.america.resources
+C:\Users\ugur\Desktop\world\world\obj\Debug\world.Form1.resources
+C:\Users\ugur\Desktop\world\world\obj\Debug\world.france.resources
+C:\Users\ugur\Desktop\world\world\obj\Debug\world.germany.resources
+C:\Users\ugur\Desktop\world\world\obj\Debug\world.japanese.resources
+C:\Users\ugur\Desktop\world\world\obj\Debug\world.Properties.Resources.resources
+C:\Users\ugur\Desktop\world\world\obj\Debug\world.turkey_meals_to_eat_.resources
+C:\Users\ugur\Desktop\world\world\obj\Debug\world.turkey.resources
+C:\Users\ugur\Desktop\world\world\obj\Debug\world.csproj.GenerateResource.Cache
+C:\Users\ugur\Desktop\world\world\obj\Debug\world.turkey_meals_to_eat_2.resources
+C:\Users\ugur\Desktop\world\world\obj\Debug\world.turkey_meals_to_eat_3.resources
+C:\Users\ugur\Desktop\world\world\obj\Debug\world.turkey_meals_to_eat_4.resources
+C:\Users\ugur\Desktop\world\world\obj\Debug\world.turkey_meals_to_eat_5.resources
+C:\Users\ugur\Desktop\world\world\obj\Debug\world.turkey_places_to_visit_.resources
+C:\Users\ugur\Desktop\world\world\obj\Debug\world.turkey_places_to_visit_2.resources
+C:\Users\ugur\Desktop\world\world\obj\Debug\world.turkey_places_to_visit_3.resources
+C:\Users\ugur\Desktop\ingilizce\world\world\bin\Debug\world.exe.config
+C:\Users\ugur\Desktop\ingilizce\world\world\obj\Debug\world.exe
+C:\Users\ugur\Desktop\ingilizce\world\world\obj\Debug\world.pdb
+C:\Users\ugur\Desktop\ingilizce\world\world\bin\Debug\world.exe
+C:\Users\ugur\Desktop\ingilizce\world\world\bin\Debug\world.pdb
+C:\Users\ugur\Desktop\ingilizce\world\world\obj\Debug\world.csprojResolveAssemblyReference.cache
+C:\Users\ugur\Desktop\ingilizce\world\world\obj\Debug\world.america.resources
+C:\Users\ugur\Desktop\ingilizce\world\world\obj\Debug\world.Form1.resources
+C:\Users\ugur\Desktop\ingilizce\world\world\obj\Debug\world.france.resources
+C:\Users\ugur\Desktop\ingilizce\world\world\obj\Debug\world.germany.resources
+C:\Users\ugur\Desktop\ingilizce\world\world\obj\Debug\world.japanese.resources
+C:\Users\ugur\Desktop\ingilizce\world\world\obj\Debug\world.Properties.Resources.resources
+C:\Users\ugur\Desktop\ingilizce\world\world\obj\Debug\world.turkey_meals_to_eat_.resources
+C:\Users\ugur\Desktop\ingilizce\world\world\obj\Debug\world.turkey_meals_to_eat_2.resources
+C:\Users\ugur\Desktop\ingilizce\world\world\obj\Debug\world.turkey_meals_to_eat_3.resources
+C:\Users\ugur\Desktop\ingilizce\world\world\obj\Debug\world.turkey_meals_to_eat_4.resources
+C:\Users\ugur\Desktop\ingilizce\world\world\obj\Debug\world.turkey_meals_to_eat_5.resources
+C:\Users\ugur\Desktop\ingilizce\world\world\obj\Debug\world.turkey_places_to_visit_.resources
+C:\Users\ugur\Desktop\ingilizce\world\world\obj\Debug\world.turkey_places_to_visit_2.resources
+C:\Users\ugur\Desktop\ingilizce\world\world\obj\Debug\world.turkey_places_to_visit_3.resources
+C:\Users\ugur\Desktop\ingilizce\world\world\obj\Debug\world.turkey.resources
+C:\Users\ugur\Desktop\ingilizce\world\world\obj\Debug\world.csproj.GenerateResource.Cache
+C:\Users\ugur\Desktop\ingilizce\world\world\obj\Debug\world.turkey_places_to_visit_4.resources
+C:\Users\ugur\Desktop\ingilizce\world\world\obj\Debug\world.turkey_places_to_visit_5.resources
+C:\Users\ugur\Desktop\ingilizce\world\world\obj\Debug\world.turkey_historical_.resources
+C:\Users\ugur\Desktop\ingilizce\world\world\obj\Debug\world.turkey_historical_2.resources
+C:\Users\ugur\Desktop\ingilizce\world\world\obj\Debug\world.turkey_historical_3.resources
+C:\Users\ugur\Desktop\ingilizce\world\world\obj\Debug\world.turkey_historical_4.resources
+C:\Users\ugur\Desktop\ingilizce\world\world\obj\Debug\world.turkey_historical_5.resources
+C:\Users\ugur\Desktop\ingilizce\world\world\obj\Debug\world.america_meals_to_eat_.resources
+C:\Users\ugur\Desktop\2\world\world\bin\Debug\world.exe.config
+C:\Users\ugur\Desktop\2\world\world\obj\Debug\world.exe
+C:\Users\ugur\Desktop\2\world\world\obj\Debug\world.pdb
+C:\Users\ugur\Desktop\2\world\world\bin\Debug\world.exe
+C:\Users\ugur\Desktop\2\world\world\bin\Debug\world.pdb
+C:\Users\ugur\Desktop\2\world\world\obj\Debug\world.csprojResolveAssemblyReference.cache
+C:\Users\ugur\Desktop\2\world\world\obj\Debug\world.america_meals_to_eat_.resources
+C:\Users\ugur\Desktop\2\world\world\obj\Debug\world.america.resources
+C:\Users\ugur\Desktop\2\world\world\obj\Debug\world.Form1.resources
+C:\Users\ugur\Desktop\2\world\world\obj\Debug\world.france.resources
+C:\Users\ugur\Desktop\2\world\world\obj\Debug\world.germany.resources
+C:\Users\ugur\Desktop\2\world\world\obj\Debug\world.japanese.resources
+C:\Users\ugur\Desktop\2\world\world\obj\Debug\world.Properties.Resources.resources
+C:\Users\ugur\Desktop\2\world\world\obj\Debug\world.turkey_historical_.resources
+C:\Users\ugur\Desktop\2\world\world\obj\Debug\world.turkey_meals_to_eat_.resources
+C:\Users\ugur\Desktop\2\world\world\obj\Debug\world.turkey_meals_to_eat_2.resources
+C:\Users\ugur\Desktop\2\world\world\obj\Debug\world.turkey_meals_to_eat_3.resources
+C:\Users\ugur\Desktop\2\world\world\obj\Debug\world.turkey_meals_to_eat_4.resources
+C:\Users\ugur\Desktop\2\world\world\obj\Debug\world.turkey_meals_to_eat_5.resources
+C:\Users\ugur\Desktop\2\world\world\obj\Debug\world.turkey_places_to_visit_.resources
+C:\Users\ugur\Desktop\2\world\world\obj\Debug\world.turkey_places_to_visit_2.resources
+C:\Users\ugur\Desktop\2\world\world\obj\Debug\world.turkey_places_to_visit_3.resources
+C:\Users\ugur\Desktop\2\world\world\obj\Debug\world.turkey_places_to_visit_4.resources
+C:\Users\ugur\Desktop\2\world\world\obj\Debug\world.turkey_places_to_visit_5.resources
+C:\Users\ugur\Desktop\2\world\world\obj\Debug\world.turkey.resources
+C:\Users\ugur\Desktop\2\world\world\obj\Debug\world.csproj.GenerateResource.Cache
+C:\Users\ugur\Desktop\2\world\world\obj\Debug\world.america_meals_to_eat_2.resources
+C:\Users\ugur\Desktop\2\world\world\obj\Debug\world.america_meals_to_eat_3.resources
+C:\Users\ugur\Desktop\2\world\world\obj\Debug\world.america_meals_to_eat_4.resources
+C:\Users\ugur\Desktop\2\world\world\obj\Debug\world.america_meals_to_eat_5.resources
+C:\Users\ugur\Desktop\2\world\world\obj\Debug\world.turkey_historical_2.resources
+C:\Users\ugur\Desktop\2\world\world\obj\Debug\world.turkey_historical_3.resources
+C:\Users\ugur\Desktop\2\world\world\obj\Debug\world.turkey_historical_4.resources
+C:\Users\ugur\Desktop\2\world\world\obj\Debug\world.turkey_historical_5.resources
+C:\Users\ugur\Desktop\2\world\world\obj\Debug\world.america_places_to_visit_.resources
+C:\Users\ugur\Desktop\2\world\world\obj\Debug\world.america_places_to_visit_2.resources
+C:\Users\ugur\Desktop\ingilizce projesi\world\world\bin\Debug\world.exe.config
+C:\Users\ugur\Desktop\ingilizce projesi\world\world\obj\Debug\world.exe
+C:\Users\ugur\Desktop\ingilizce projesi\world\world\obj\Debug\world.pdb
+C:\Users\ugur\Desktop\ingilizce projesi\world\world\bin\Debug\world.exe
+C:\Users\ugur\Desktop\ingilizce projesi\world\world\obj\Debug\world.csprojResolveAssemblyReference.cache
+C:\Users\ugur\Desktop\ingilizce projesi\world\world\obj\Debug\world.america_meals_to_eat_.resources
+C:\Users\ugur\Desktop\ingilizce projesi\world\world\obj\Debug\world.america_meals_to_eat_2.resources
+C:\Users\ugur\Desktop\ingilizce projesi\world\world\obj\Debug\world.america_meals_to_eat_3.resources
+C:\Users\ugur\Desktop\ingilizce projesi\world\world\obj\Debug\world.america_meals_to_eat_4.resources
+C:\Users\ugur\Desktop\ingilizce projesi\world\world\obj\Debug\world.america_meals_to_eat_5.resources
+C:\Users\ugur\Desktop\ingilizce projesi\world\world\obj\Debug\world.america_places_to_visit_.resources
+C:\Users\ugur\Desktop\ingilizce projesi\world\world\obj\Debug\world.america_places_to_visit_2.resources
+C:\Users\ugur\Desktop\ingilizce projesi\world\world\obj\Debug\world.america_places_to_visit_3.resources
+C:\Users\ugur\Desktop\ingilizce projesi\world\world\obj\Debug\world.america.resources
+C:\Users\ugur\Desktop\ingilizce projesi\world\world\obj\Debug\world.Form1.resources
+C:\Users\ugur\Desktop\ingilizce projesi\world\world\obj\Debug\world.france.resources
+C:\Users\ugur\Desktop\ingilizce projesi\world\world\obj\Debug\world.germany.resources
+C:\Users\ugur\Desktop\ingilizce projesi\world\world\obj\Debug\world.japanese.resources
+C:\Users\ugur\Desktop\ingilizce projesi\world\world\obj\Debug\world.Properties.Resources.resources
+C:\Users\ugur\Desktop\ingilizce projesi\world\world\obj\Debug\world.turkey_historical_.resources
+C:\Users\ugur\Desktop\ingilizce projesi\world\world\obj\Debug\world.turkey_historical_2.resources
+C:\Users\ugur\Desktop\ingilizce projesi\world\world\obj\Debug\world.turkey_historical_3.resources
+C:\Users\ugur\Desktop\ingilizce projesi\world\world\obj\Debug\world.turkey_historical_4.resources
+C:\Users\ugur\Desktop\ingilizce projesi\world\world\obj\Debug\world.turkey_historical_5.resources
+C:\Users\ugur\Desktop\ingilizce projesi\world\world\obj\Debug\world.turkey_meals_to_eat_.resources
+C:\Users\ugur\Desktop\ingilizce projesi\world\world\obj\Debug\world.turkey_meals_to_eat_2.resources
+C:\Users\ugur\Desktop\ingilizce projesi\world\world\obj\Debug\world.turkey_meals_to_eat_3.resources
+C:\Users\ugur\Desktop\ingilizce projesi\world\world\obj\Debug\world.turkey_meals_to_eat_4.resources
+C:\Users\ugur\Desktop\ingilizce projesi\world\world\obj\Debug\world.turkey_meals_to_eat_5.resources
+C:\Users\ugur\Desktop\ingilizce projesi\world\world\obj\Debug\world.turkey_places_to_visit_.resources
+C:\Users\ugur\Desktop\ingilizce projesi\world\world\obj\Debug\world.turkey_places_to_visit_2.resources
+C:\Users\ugur\Desktop\ingilizce projesi\world\world\obj\Debug\world.turkey_places_to_visit_3.resources
+C:\Users\ugur\Desktop\ingilizce projesi\world\world\obj\Debug\world.turkey_places_to_visit_4.resources
+C:\Users\ugur\Desktop\ingilizce projesi\world\world\obj\Debug\world.turkey_places_to_visit_5.resources
+C:\Users\ugur\Desktop\ingilizce projesi\world\world\obj\Debug\world.turkey.resources
+C:\Users\ugur\Desktop\ingilizce projesi\world\world\obj\Debug\world.csproj.GenerateResource.Cache
+C:\Users\ugur\Desktop\ingilizce 2\world\world\bin\Debug\world.exe.config
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.exe
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.pdb
+C:\Users\ugur\Desktop\ingilizce 2\world\world\bin\Debug\world.exe
+C:\Users\ugur\Desktop\ingilizce 2\world\world\bin\Debug\world.pdb
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.csprojResolveAssemblyReference.cache
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.america_meals_to_eat_.resources
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.america_meals_to_eat_2.resources
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.america_meals_to_eat_3.resources
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.america_meals_to_eat_4.resources
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.america_meals_to_eat_5.resources
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.america_places_to_visit_.resources
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.america_places_to_visit_2.resources
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.america_places_to_visit_3.resources
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.america.resources
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.Form1.resources
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.france.resources
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.germany.resources
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.japanese.resources
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.Properties.Resources.resources
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.turkey_historical_.resources
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.turkey_historical_2.resources
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.turkey_historical_3.resources
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.turkey_historical_4.resources
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.turkey_historical_5.resources
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.turkey_meals_to_eat_.resources
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.turkey_meals_to_eat_2.resources
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.turkey_meals_to_eat_3.resources
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.turkey_meals_to_eat_4.resources
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.turkey_meals_to_eat_5.resources
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.turkey_places_to_visit_.resources
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.turkey_places_to_visit_2.resources
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.turkey_places_to_visit_3.resources
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.turkey_places_to_visit_4.resources
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.turkey_places_to_visit_5.resources
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.turkey.resources
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.csproj.GenerateResource.Cache
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.america_places_to_visit_4.resources
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.america_places_to_visit_5.resources
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.america_historical_.resources
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.germany_meals_to_eat_.resources
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.germany_meals_to_eat_2.resources
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.germany_meals_to_eat_3.resources
+C:\Users\ugur\Desktop\ingilizce 2\world\world\obj\Debug\world.germany_meals_to_eat_4.resources
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\bin\Debug\world.exe.config
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.exe
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.pdb
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\bin\Debug\world.exe
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.csprojResolveAssemblyReference.cache
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.america_historical_.resources
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.america_meals_to_eat_.resources
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.america_meals_to_eat_2.resources
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.america_meals_to_eat_3.resources
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.america_meals_to_eat_4.resources
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.america_meals_to_eat_5.resources
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.america_places_to_visit_.resources
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.america_places_to_visit_2.resources
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.america_places_to_visit_3.resources
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.america_places_to_visit_4.resources
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.america_places_to_visit_5.resources
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.america.resources
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.Form1.resources
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.france.resources
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.germany_meals_to_eat_.resources
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.germany_meals_to_eat_2.resources
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.germany_meals_to_eat_3.resources
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.germany_meals_to_eat_4.resources
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.germany_meals_to_eat_5.resources
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.germany.resources
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.japanese.resources
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.Properties.Resources.resources
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.turkey_historical_.resources
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.turkey_historical_2.resources
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.turkey_historical_3.resources
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.turkey_historical_4.resources
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.turkey_historical_5.resources
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.turkey_meals_to_eat_.resources
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.turkey_meals_to_eat_2.resources
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.turkey_meals_to_eat_3.resources
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.turkey_meals_to_eat_4.resources
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.turkey_meals_to_eat_5.resources
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.turkey_places_to_visit_.resources
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.turkey_places_to_visit_2.resources
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.turkey_places_to_visit_3.resources
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.turkey_places_to_visit_4.resources
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.turkey_places_to_visit_5.resources
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.turkey.resources
+C:\Users\ugur\Desktop\Yeni klasör\ingilizce 2\world\world\obj\Debug\world.csproj.GenerateResource.Cache
+C:\Users\ugur\Desktop\İNG PROJE\world\world\bin\Debug\world.exe.config
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.exe
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.pdb
+C:\Users\ugur\Desktop\İNG PROJE\world\world\bin\Debug\world.exe
+C:\Users\ugur\Desktop\İNG PROJE\world\world\bin\Debug\world.pdb
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.csprojResolveAssemblyReference.cache
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.america_historical_.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.america_meals_to_eat_.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.america_meals_to_eat_2.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.america_meals_to_eat_3.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.america_meals_to_eat_4.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.america_meals_to_eat_5.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.america_places_to_visit_.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.america_places_to_visit_2.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.america_places_to_visit_3.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.america_places_to_visit_4.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.america_places_to_visit_5.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.america.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.Form1.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.france.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.germany_meals_to_eat_.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.germany_meals_to_eat_2.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.germany_meals_to_eat_3.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.germany_meals_to_eat_4.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.germany_meals_to_eat_5.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.germany.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.japanese.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.Properties.Resources.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.turkey_historical_.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.turkey_historical_2.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.turkey_historical_3.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.turkey_historical_4.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.turkey_historical_5.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.turkey_meals_to_eat_.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.turkey_meals_to_eat_2.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.turkey_meals_to_eat_3.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.turkey_meals_to_eat_4.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.turkey_meals_to_eat_5.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.turkey_places_to_visit_.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.turkey_places_to_visit_2.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.turkey_places_to_visit_3.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.turkey_places_to_visit_4.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.turkey_places_to_visit_5.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.turkey.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.csproj.GenerateResource.Cache
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.germany_places_to_visit_.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.germany_places_to_visit_2.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.germany_places_to_visit_3.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.germany_places_to_visit_4.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.germany_places_to_visit_5.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.germany_historical_.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.france_meals_to_visit_.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.france_meals_to_visit_2.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.france_meals_to_visit_3.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.france_meals_to_visit_4.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.france_meals_to_visit_5.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.france_places_to_visit_.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.france_places_to_visit_2.resources
+C:\Users\ugur\Desktop\İNG PROJE\world\world\obj\Debug\world.france_places_to_visit_3.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\bin\Debug\world.exe.config
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.exe
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.pdb
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\bin\Debug\world.exe
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\bin\Debug\world.pdb
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.csprojResolveAssemblyReference.cache
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.america_historical_.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.america_meals_to_eat_.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.america_meals_to_eat_2.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.america_meals_to_eat_3.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.america_meals_to_eat_4.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.america_meals_to_eat_5.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.america_places_to_visit_.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.america_places_to_visit_2.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.america_places_to_visit_3.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.america_places_to_visit_4.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.america_places_to_visit_5.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.america.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.Form1.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.france_meals_to_visit_.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.france_meals_to_visit_2.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.france_meals_to_visit_3.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.france_meals_to_visit_4.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.france_meals_to_visit_5.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.france_places_to_visit_.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.france_places_to_visit_2.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.france_places_to_visit_3.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.france_places_to_visit_4.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.france.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.germany_historical_.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.germany_meals_to_eat_.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.germany_meals_to_eat_2.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.germany_meals_to_eat_3.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.germany_meals_to_eat_4.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.germany_meals_to_eat_5.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.germany_places_to_visit_.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.germany_places_to_visit_2.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.germany_places_to_visit_3.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.germany_places_to_visit_4.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.germany_places_to_visit_5.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.germany.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.japanese.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.Properties.Resources.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.turkey_historical_.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.turkey_historical_2.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.turkey_historical_3.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.turkey_historical_4.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.turkey_historical_5.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.turkey_meals_to_eat_.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.turkey_meals_to_eat_2.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.turkey_meals_to_eat_3.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.turkey_meals_to_eat_4.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.turkey_meals_to_eat_5.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.turkey_places_to_visit_.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.turkey_places_to_visit_2.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.turkey_places_to_visit_3.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.turkey_places_to_visit_4.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.turkey_places_to_visit_5.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.turkey.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.csproj.GenerateResource.Cache
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.france_places_to_visit_5.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.france_historical_.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.japanese_meals_to_visit_.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.japanese_meals_to_visit_2.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.japanese_meals_to_visit_3.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.japanese_meals_to_visit_4.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.japanese_meals_to_visit_5.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.japanese_places_to_visit_.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.japanese_places_to_visit_2.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.japanese_places_to_visit_3.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.japanese_places_to_visit_4.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.japanese_places_to_visit_5.resources
+C:\Users\ugur\Desktop\12-D  992 uğur yanal\world\world\obj\Debug\world.japanese_historical_.resources

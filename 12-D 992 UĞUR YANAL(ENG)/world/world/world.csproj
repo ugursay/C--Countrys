@@ -1,0 +1,664 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DEEEA4AC-6793-4E1F-B202-FCB58401ED80}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>world</RootNamespace>
+    <AssemblyName>world</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="america%28historical%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="america%28historical%29.Designer.cs">
+      <DependentUpon>america%28historical%29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="america%28meals_to_eat%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="america%28meals_to_eat%29.Designer.cs">
+      <DependentUpon>america%28meals_to_eat%29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="america%28meals_to_eat%292.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="america%28meals_to_eat%292.Designer.cs">
+      <DependentUpon>america%28meals_to_eat%292.cs</DependentUpon>
+    </Compile>
+    <Compile Include="america%28meals_to_eat%293.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="america%28meals_to_eat%293.Designer.cs">
+      <DependentUpon>america%28meals_to_eat%293.cs</DependentUpon>
+    </Compile>
+    <Compile Include="america%28meals_to_eat%294.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="america%28meals_to_eat%294.Designer.cs">
+      <DependentUpon>america%28meals_to_eat%294.cs</DependentUpon>
+    </Compile>
+    <Compile Include="america%28meals_to_eat%295.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="america%28meals_to_eat%295.Designer.cs">
+      <DependentUpon>america%28meals_to_eat%295.cs</DependentUpon>
+    </Compile>
+    <Compile Include="america%28places_to_visit%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="america%28places_to_visit%29.Designer.cs">
+      <DependentUpon>america%28places_to_visit%29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="america%28places_to_visit%292.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="america%28places_to_visit%292.Designer.cs">
+      <DependentUpon>america%28places_to_visit%292.cs</DependentUpon>
+    </Compile>
+    <Compile Include="america%28places_to_visit%293.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="america%28places_to_visit%293.Designer.cs">
+      <DependentUpon>america%28places_to_visit%293.cs</DependentUpon>
+    </Compile>
+    <Compile Include="america%28places_to_visit%294.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="america%28places_to_visit%294.Designer.cs">
+      <DependentUpon>america%28places_to_visit%294.cs</DependentUpon>
+    </Compile>
+    <Compile Include="america%28places_to_visit%295.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="america%28places_to_visit%295.Designer.cs">
+      <DependentUpon>america%28places_to_visit%295.cs</DependentUpon>
+    </Compile>
+    <Compile Include="america.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="america.Designer.cs">
+      <DependentUpon>america.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="france%28historical%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="france%28historical%29.Designer.cs">
+      <DependentUpon>france%28historical%29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="france%28meals_to_visit%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="france%28meals_to_visit%29.Designer.cs">
+      <DependentUpon>france%28meals_to_visit%29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="france%28meals_to_visit%292.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="france%28meals_to_visit%292.Designer.cs">
+      <DependentUpon>france%28meals_to_visit%292.cs</DependentUpon>
+    </Compile>
+    <Compile Include="france%28meals_to_visit%293.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="france%28meals_to_visit%293.Designer.cs">
+      <DependentUpon>france%28meals_to_visit%293.cs</DependentUpon>
+    </Compile>
+    <Compile Include="france%28meals_to_visit%294.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="france%28meals_to_visit%294.Designer.cs">
+      <DependentUpon>france%28meals_to_visit%294.cs</DependentUpon>
+    </Compile>
+    <Compile Include="france%28meals_to_visit%295.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="france%28meals_to_visit%295.Designer.cs">
+      <DependentUpon>france%28meals_to_visit%295.cs</DependentUpon>
+    </Compile>
+    <Compile Include="france%28places_to_visit%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="france%28places_to_visit%29.Designer.cs">
+      <DependentUpon>france%28places_to_visit%29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="france%28places_to_visit%292.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="france%28places_to_visit%292.Designer.cs">
+      <DependentUpon>france%28places_to_visit%292.cs</DependentUpon>
+    </Compile>
+    <Compile Include="france%28places_to_visit%293.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="france%28places_to_visit%293.Designer.cs">
+      <DependentUpon>france%28places_to_visit%293.cs</DependentUpon>
+    </Compile>
+    <Compile Include="france%28places_to_visit%294.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="france%28places_to_visit%294.Designer.cs">
+      <DependentUpon>france%28places_to_visit%294.cs</DependentUpon>
+    </Compile>
+    <Compile Include="france%28places_to_visit%295.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="france%28places_to_visit%295.Designer.cs">
+      <DependentUpon>france%28places_to_visit%295.cs</DependentUpon>
+    </Compile>
+    <Compile Include="france.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="france.Designer.cs">
+      <DependentUpon>france.cs</DependentUpon>
+    </Compile>
+    <Compile Include="germany%28historical%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="germany%28historical%29.Designer.cs">
+      <DependentUpon>germany%28historical%29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="germany%28meals_to_eat%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="germany%28meals_to_eat%29.Designer.cs">
+      <DependentUpon>germany%28meals_to_eat%29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="germany%28meals_to_eat%292.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="germany%28meals_to_eat%292.Designer.cs">
+      <DependentUpon>germany%28meals_to_eat%292.cs</DependentUpon>
+    </Compile>
+    <Compile Include="germany%28meals_to_eat%293.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="germany%28meals_to_eat%293.Designer.cs">
+      <DependentUpon>germany%28meals_to_eat%293.cs</DependentUpon>
+    </Compile>
+    <Compile Include="germany%28meals_to_eat%294.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="germany%28meals_to_eat%294.Designer.cs">
+      <DependentUpon>germany%28meals_to_eat%294.cs</DependentUpon>
+    </Compile>
+    <Compile Include="germany%28meals_to_eat%295.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="germany%28meals_to_eat%295.Designer.cs">
+      <DependentUpon>germany%28meals_to_eat%295.cs</DependentUpon>
+    </Compile>
+    <Compile Include="germany%28places_to_visit%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="germany%28places_to_visit%29.Designer.cs">
+      <DependentUpon>germany%28places_to_visit%29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="germany%28places_to_visit%292.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="germany%28places_to_visit%292.Designer.cs">
+      <DependentUpon>germany%28places_to_visit%292.cs</DependentUpon>
+    </Compile>
+    <Compile Include="germany%28places_to_visit%293.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="germany%28places_to_visit%293.Designer.cs">
+      <DependentUpon>germany%28places_to_visit%293.cs</DependentUpon>
+    </Compile>
+    <Compile Include="germany%28places_to_visit%294.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="germany%28places_to_visit%294.Designer.cs">
+      <DependentUpon>germany%28places_to_visit%294.cs</DependentUpon>
+    </Compile>
+    <Compile Include="germany%28places_to_visit%295.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="germany%28places_to_visit%295.Designer.cs">
+      <DependentUpon>germany%28places_to_visit%295.cs</DependentUpon>
+    </Compile>
+    <Compile Include="germany.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="germany.Designer.cs">
+      <DependentUpon>germany.cs</DependentUpon>
+    </Compile>
+    <Compile Include="japanese%28historical%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="japanese%28historical%29.Designer.cs">
+      <DependentUpon>japanese%28historical%29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="japanese%28meals_to_visit%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="japanese%28meals_to_visit%29.Designer.cs">
+      <DependentUpon>japanese%28meals_to_visit%29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="japanese%28meals_to_visit%292.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="japanese%28meals_to_visit%292.Designer.cs">
+      <DependentUpon>japanese%28meals_to_visit%292.cs</DependentUpon>
+    </Compile>
+    <Compile Include="japanese%28meals_to_visit%293.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="japanese%28meals_to_visit%293.Designer.cs">
+      <DependentUpon>japanese%28meals_to_visit%293.cs</DependentUpon>
+    </Compile>
+    <Compile Include="japanese%28meals_to_visit%294.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="japanese%28meals_to_visit%294.Designer.cs">
+      <DependentUpon>japanese%28meals_to_visit%294.cs</DependentUpon>
+    </Compile>
+    <Compile Include="japanese%28meals_to_visit%295.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="japanese%28meals_to_visit%295.Designer.cs">
+      <DependentUpon>japanese%28meals_to_visit%295.cs</DependentUpon>
+    </Compile>
+    <Compile Include="japanese%28places_to_visit%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="japanese%28places_to_visit%29.Designer.cs">
+      <DependentUpon>japanese%28places_to_visit%29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="japanese%28places_to_visit%292.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="japanese%28places_to_visit%292.Designer.cs">
+      <DependentUpon>japanese%28places_to_visit%292.cs</DependentUpon>
+    </Compile>
+    <Compile Include="japanese%28places_to_visit%293.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="japanese%28places_to_visit%293.Designer.cs">
+      <DependentUpon>japanese%28places_to_visit%293.cs</DependentUpon>
+    </Compile>
+    <Compile Include="japanese%28places_to_visit%294.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="japanese%28places_to_visit%294.Designer.cs">
+      <DependentUpon>japanese%28places_to_visit%294.cs</DependentUpon>
+    </Compile>
+    <Compile Include="japanese%28places_to_visit%295.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="japanese%28places_to_visit%295.Designer.cs">
+      <DependentUpon>japanese%28places_to_visit%295.cs</DependentUpon>
+    </Compile>
+    <Compile Include="japanese.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="japanese.Designer.cs">
+      <DependentUpon>japanese.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="turkey%28historical%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="turkey%28historical%29.Designer.cs">
+      <DependentUpon>turkey%28historical%29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="turkey%28historical%292.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="turkey%28historical%292.Designer.cs">
+      <DependentUpon>turkey%28historical%292.cs</DependentUpon>
+    </Compile>
+    <Compile Include="turkey%28historical%293.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="turkey%28historical%293.Designer.cs">
+      <DependentUpon>turkey%28historical%293.cs</DependentUpon>
+    </Compile>
+    <Compile Include="turkey%28historical%294.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="turkey%28historical%294.Designer.cs">
+      <DependentUpon>turkey%28historical%294.cs</DependentUpon>
+    </Compile>
+    <Compile Include="turkey%28historical%295.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="turkey%28historical%295.Designer.cs">
+      <DependentUpon>turkey%28historical%295.cs</DependentUpon>
+    </Compile>
+    <Compile Include="turkey%28meals_to_eat%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="turkey%28meals_to_eat%29.Designer.cs">
+      <DependentUpon>turkey%28meals_to_eat%29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="turkey%28meals_to_eat%292.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="turkey%28meals_to_eat%292.Designer.cs">
+      <DependentUpon>turkey%28meals_to_eat%292.cs</DependentUpon>
+    </Compile>
+    <Compile Include="turkey%28meals_to_eat%293.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="turkey%28meals_to_eat%293.Designer.cs">
+      <DependentUpon>turkey%28meals_to_eat%293.cs</DependentUpon>
+    </Compile>
+    <Compile Include="turkey%28meals_to_eat%294.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="turkey%28meals_to_eat%294.Designer.cs">
+      <DependentUpon>turkey%28meals_to_eat%294.cs</DependentUpon>
+    </Compile>
+    <Compile Include="turkey%28meals_to_eat%295.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="turkey%28meals_to_eat%295.Designer.cs">
+      <DependentUpon>turkey%28meals_to_eat%295.cs</DependentUpon>
+    </Compile>
+    <Compile Include="turkey%28places_to_visit%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="turkey%28places_to_visit%29.Designer.cs">
+      <DependentUpon>turkey%28places_to_visit%29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="turkey%28places_to_visit%292.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="turkey%28places_to_visit%292.Designer.cs">
+      <DependentUpon>turkey%28places_to_visit%292.cs</DependentUpon>
+    </Compile>
+    <Compile Include="turkey%28places_to_visit%293.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="turkey%28places_to_visit%293.Designer.cs">
+      <DependentUpon>turkey%28places_to_visit%293.cs</DependentUpon>
+    </Compile>
+    <Compile Include="turkey%28places_to_visit%294.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="turkey%28places_to_visit%294.Designer.cs">
+      <DependentUpon>turkey%28places_to_visit%294.cs</DependentUpon>
+    </Compile>
+    <Compile Include="turkey%28places_to_visit%295.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="turkey%28places_to_visit%295.Designer.cs">
+      <DependentUpon>turkey%28places_to_visit%295.cs</DependentUpon>
+    </Compile>
+    <Compile Include="turkey.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="turkey.Designer.cs">
+      <DependentUpon>turkey.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="america%28historical%29.resx">
+      <DependentUpon>america%28historical%29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="america%28meals_to_eat%29.resx">
+      <DependentUpon>america%28meals_to_eat%29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="america%28meals_to_eat%292.resx">
+      <DependentUpon>america%28meals_to_eat%292.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="america%28meals_to_eat%293.resx">
+      <DependentUpon>america%28meals_to_eat%293.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="america%28meals_to_eat%294.resx">
+      <DependentUpon>america%28meals_to_eat%294.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="america%28meals_to_eat%295.resx">
+      <DependentUpon>america%28meals_to_eat%295.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="america%28places_to_visit%29.resx">
+      <DependentUpon>america%28places_to_visit%29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="america%28places_to_visit%292.resx">
+      <DependentUpon>america%28places_to_visit%292.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="america%28places_to_visit%293.resx">
+      <DependentUpon>america%28places_to_visit%293.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="america%28places_to_visit%294.resx">
+      <DependentUpon>america%28places_to_visit%294.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="america%28places_to_visit%295.resx">
+      <DependentUpon>america%28places_to_visit%295.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="america.resx">
+      <DependentUpon>america.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="france%28historical%29.resx">
+      <DependentUpon>france%28historical%29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="france%28meals_to_visit%29.resx">
+      <DependentUpon>france%28meals_to_visit%29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="france%28meals_to_visit%292.resx">
+      <DependentUpon>france%28meals_to_visit%292.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="france%28meals_to_visit%293.resx">
+      <DependentUpon>france%28meals_to_visit%293.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="france%28meals_to_visit%294.resx">
+      <DependentUpon>france%28meals_to_visit%294.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="france%28meals_to_visit%295.resx">
+      <DependentUpon>france%28meals_to_visit%295.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="france%28places_to_visit%29.resx">
+      <DependentUpon>france%28places_to_visit%29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="france%28places_to_visit%292.resx">
+      <DependentUpon>france%28places_to_visit%292.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="france%28places_to_visit%293.resx">
+      <DependentUpon>france%28places_to_visit%293.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="france%28places_to_visit%294.resx">
+      <DependentUpon>france%28places_to_visit%294.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="france%28places_to_visit%295.resx">
+      <DependentUpon>france%28places_to_visit%295.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="france.resx">
+      <DependentUpon>france.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="germany%28historical%29.resx">
+      <DependentUpon>germany%28historical%29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="germany%28meals_to_eat%29.resx">
+      <DependentUpon>germany%28meals_to_eat%29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="germany%28meals_to_eat%292.resx">
+      <DependentUpon>germany%28meals_to_eat%292.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="germany%28meals_to_eat%293.resx">
+      <DependentUpon>germany%28meals_to_eat%293.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="germany%28meals_to_eat%294.resx">
+      <DependentUpon>germany%28meals_to_eat%294.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="germany%28meals_to_eat%295.resx">
+      <DependentUpon>germany%28meals_to_eat%295.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="germany%28places_to_visit%29.resx">
+      <DependentUpon>germany%28places_to_visit%29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="germany%28places_to_visit%292.resx">
+      <DependentUpon>germany%28places_to_visit%292.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="germany%28places_to_visit%293.resx">
+      <DependentUpon>germany%28places_to_visit%293.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="germany%28places_to_visit%294.resx">
+      <DependentUpon>germany%28places_to_visit%294.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="germany%28places_to_visit%295.resx">
+      <DependentUpon>germany%28places_to_visit%295.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="germany.resx">
+      <DependentUpon>germany.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="japanese%28historical%29.resx">
+      <DependentUpon>japanese%28historical%29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="japanese%28meals_to_visit%29.resx">
+      <DependentUpon>japanese%28meals_to_visit%29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="japanese%28meals_to_visit%292.resx">
+      <DependentUpon>japanese%28meals_to_visit%292.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="japanese%28meals_to_visit%293.resx">
+      <DependentUpon>japanese%28meals_to_visit%293.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="japanese%28meals_to_visit%294.resx">
+      <DependentUpon>japanese%28meals_to_visit%294.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="japanese%28meals_to_visit%295.resx">
+      <DependentUpon>japanese%28meals_to_visit%295.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="japanese%28places_to_visit%29.resx">
+      <DependentUpon>japanese%28places_to_visit%29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="japanese%28places_to_visit%292.resx">
+      <DependentUpon>japanese%28places_to_visit%292.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="japanese%28places_to_visit%293.resx">
+      <DependentUpon>japanese%28places_to_visit%293.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="japanese%28places_to_visit%294.resx">
+      <DependentUpon>japanese%28places_to_visit%294.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="japanese%28places_to_visit%295.resx">
+      <DependentUpon>japanese%28places_to_visit%295.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="japanese.resx">
+      <DependentUpon>japanese.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="turkey%28historical%29.resx">
+      <DependentUpon>turkey%28historical%29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="turkey%28historical%292.resx">
+      <DependentUpon>turkey%28historical%292.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="turkey%28historical%293.resx">
+      <DependentUpon>turkey%28historical%293.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="turkey%28historical%294.resx">
+      <DependentUpon>turkey%28historical%294.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="turkey%28historical%295.resx">
+      <DependentUpon>turkey%28historical%295.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="turkey%28meals_to_eat%29.resx">
+      <DependentUpon>turkey%28meals_to_eat%29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="turkey%28meals_to_eat%292.resx">
+      <DependentUpon>turkey%28meals_to_eat%292.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="turkey%28meals_to_eat%293.resx">
+      <DependentUpon>turkey%28meals_to_eat%293.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="turkey%28meals_to_eat%294.resx">
+      <DependentUpon>turkey%28meals_to_eat%294.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="turkey%28meals_to_eat%295.resx">
+      <DependentUpon>turkey%28meals_to_eat%295.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="turkey%28places_to_visit%29.resx">
+      <DependentUpon>turkey%28places_to_visit%29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="turkey%28places_to_visit%292.resx">
+      <DependentUpon>turkey%28places_to_visit%292.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="turkey%28places_to_visit%293.resx">
+      <DependentUpon>turkey%28places_to_visit%293.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="turkey%28places_to_visit%294.resx">
+      <DependentUpon>turkey%28places_to_visit%294.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="turkey%28places_to_visit%295.resx">
+      <DependentUpon>turkey%28places_to_visit%295.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="turkey.resx">
+      <DependentUpon>turkey.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
